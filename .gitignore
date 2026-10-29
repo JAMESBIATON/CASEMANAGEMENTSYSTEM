@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Node Modules
+node_modules/
+
+# Python Cache & Databases
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Environment variables / secrets
+.env
